@@ -1,0 +1,97 @@
+body {
+    width: 900px;
+    background-color: #4A453B;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 64px
+    margin-bottom: 32px
+}
+
+nav {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 64px;
+}
+
+nav a {
+    font-size: 32px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+a:hover {
+	color: #44E3C1;
+}
+
+p {
+    line-height: 160%;
+    color: #f7f7f7;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-family: "Roboto Slab", cursive;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: white;
+    margin-bottom: 16px;
+    font-family: "Patrick Hand SC", cursive;
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-family: "Patrick Hand SC", cursive;
+}
+
+ul,
+ol {
+    font-size: 16px;
+    color: #f7f7f7;
+    margin-left: 32px;
+    font-family: "Patrick Hand SC", cursive;
+}
+
+img {
+    border-radius: 0.25em;
+    width: 100%;
+}
+
+a {
+    color: #FFD78C;
+    text-decoration: none;
+}
+
+#copyright {
+	color: pink;
+	font-style: italic;
+}
+
+.like{
+	color: hotpink;
+}
+
+#homepage {
+	column-count: 2;
+	column-gap: 24px;
+}
+
+.profile {
+	width: 200px;
+	border-radius: 100%;
+	margin-right: 24px;
+	border: 6px solid #F7F7F7;
+	float: left; /* the float pulls things off the page */
+}
+
+header{
+	margin-top: 64px;
+}
